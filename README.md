@@ -1,3 +1,2 @@
 # hello-world
-First GitHub Project Repo
-This file has been editted
+First GitHub Project Test
